@@ -23,7 +23,6 @@
  *
  */
 
-
 /* External Library Includes */
 @import './imports/_reset';
 
@@ -85,3 +84,16 @@
 
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
+
+
+.bg {
+    min-height: 100vh;
+    background-color: #C97F63;
+}
+
+.jk {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
